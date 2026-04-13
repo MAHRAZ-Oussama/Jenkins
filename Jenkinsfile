@@ -222,7 +222,7 @@ URL     : ${env.BUILD_URL}
 
 Consulter les logs : ${env.BUILD_URL}console
                 """,
-                to:          oussama.mahraz1@gmail.com',
+                to:          'oussama.mahraz1@gmail.com',
                 attachLog:   true
             )
         }
@@ -232,7 +232,7 @@ Consulter les logs : ${env.BUILD_URL}console
             emailext(
                 subject: "✅ FIXED: ${env.JOB_NAME} #${env.BUILD_NUMBER}",
                 body:    "Le build est de nouveau stable : ${env.BUILD_URL}",
-                to:      oussama.mahraz1@gmail.com'
+                to:      'oussama.mahraz1@gmail.com'
             )
         }
 
