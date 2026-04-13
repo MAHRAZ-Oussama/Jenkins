@@ -112,3 +112,4 @@ Warnings NG – SpotBugs       : **/spotbugsXml.xml
 - [Checkstyle](https://checkstyle.org) – Règles disponibles
 - [SpotBugs](https://spotbugs.github.io) – Documentation
 # Test webhook Mon Apr 13 14:27:34 CEST 2026
+# Push test 2 - Mon Apr 13 14:32:42 CEST 2026
