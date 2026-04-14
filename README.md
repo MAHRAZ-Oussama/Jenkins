@@ -120,3 +120,4 @@ Warnings NG – SpotBugs       : **/spotbugsXml.xml
 # Test email SMTP Mon Apr 13 15:10:17 CEST 2026
 # Update webhook
 
+# Branche test-1
