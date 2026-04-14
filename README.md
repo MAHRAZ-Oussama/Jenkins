@@ -121,4 +121,3 @@ Warnings NG – SpotBugs       : **/spotbugsXml.xml
 # Test
 # Test
 # Test3 
-http://localhost:8080/
